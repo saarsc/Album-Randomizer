@@ -1,0 +1,2030 @@
+    <div class="desktop-results">
+        <table>
+            <thead>
+            <tr>
+                <th class="cover"></th>
+                <th class="year sortable " data-sort-default="asc">
+                    <a href="#">Year <span></span></a>
+                </th>
+                <th class="artist">Artist <span></span></th>
+                <th class="title sortable " data-sort-default="asc">
+                    <a href="#">Album <span></span></a>
+                </th>
+                <th class="rating sortable " data-sort-default="desc">
+                    <a href="#">AllMusic Rating <span></span></a>
+                </th>
+            </tr>
+            </thead>
+
+            <tbody>
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/mellon-collie-and-the-infinite-sadness-mw0000645152"
+                               title="Mellon Collie and the Infinite Sadness">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=KwqIu4wo1TTu3hG-3q3Dzh_TZlp6n_cq-Emr2zx15tU=&f=1"  width="56" height="56" alt="Mellon Collie and the Infinite Sadness" style="left:-0px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=KwqIu4wo1TTu3hG-3q3Dzh_TZlp6n_cq-Emr2zx15tU=&f=1" width="56" height="56" alt="Mellon Collie and the Infinite Sadness" style="left:-0px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        1995                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/the-smashing-pumpkins-mn0000036521">The Smashing Pumpkins</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/mellon-collie-and-the-infinite-sadness-mw0000645152">Mellon Collie and the Infinite Sadness</a>
+                                                    <a href="/album/mellon-collie-and-the-infinite-sadness-mw0000645152"
+                               title="Mellon Collie and the Infinite Sadness">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/siamese-dream-mw0000099414"
+                               title="Siamese Dream">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=WgM8FlaPraqsoKaOTdtNOA4Q1ghY8VaPylnm7PwcKNY=&f=1"  width="56" height="56" alt="Siamese Dream" style="left:-0px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=WgM8FlaPraqsoKaOTdtNOA4Q1ghY8VaPylnm7PwcKNY=&f=1" width="56" height="56" alt="Siamese Dream" style="left:-0px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        1993                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/the-smashing-pumpkins-mn0000036521">The Smashing Pumpkins</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/siamese-dream-mw0000099414">Siamese Dream</a>
+                                                    <a href="/album/siamese-dream-mw0000099414"
+                               title="Siamese Dream">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/gish-mw0000265088"
+                               title="Gish">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=pUGEiEHZMVU5IeIRutlzT1WnbEN5fCjifro6xhIBuB4=&f=1"  width="56" height="56" alt="Gish" style="left:-0px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=pUGEiEHZMVU5IeIRutlzT1WnbEN5fCjifro6xhIBuB4=&f=1" width="56" height="56" alt="Gish" style="left:-0px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        1991                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/the-smashing-pumpkins-mn0000036521">The Smashing Pumpkins</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/gish-mw0000265088">Gish</a>
+                                                    <a href="/album/gish-mw0000265088"
+                               title="Gish">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/the-suburbs-mw0002010991"
+                               title="The Suburbs">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=DYv4C1sqBjc-DKl2Fvz3aFWnbEN5fCjifro6xhIBuB4=&f=1"  width="61" height="56" alt="The Suburbs" style="left:-2px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=DYv4C1sqBjc-DKl2Fvz3aFWnbEN5fCjifro6xhIBuB4=&f=1" width="61" height="56" alt="The Suburbs" style="left:-2px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2010                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/arcade-fire-mn0000185591">Arcade Fire</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/the-suburbs-mw0002010991">The Suburbs</a>
+                                                    <a href="/album/the-suburbs-mw0002010991"
+                               title="The Suburbs">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/where-you-been-mw0000093455"
+                               title="Where You Been">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=RfOe0Qmj9eyFBV0Uvm5hfd_M69_UI9rrJSVvWL2-yAg=&f=1"  width="56" height="56" alt="Where You Been" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=RfOe0Qmj9eyFBV0Uvm5hfd_M69_UI9rrJSVvWL2-yAg=&f=1" width="56" height="56" alt="Where You Been" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        1993                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/dinosaur-jr-mn0000219483">Dinosaur Jr.</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/where-you-been-mw0000093455">Where You Been</a>
+                                                    <a href="/album/where-you-been-mw0000093455"
+                               title="Where You Been">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/the-1975-mw0002545393"
+                               title="The 1975">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=_AHQl1DG-nvFRxec8mXLmd_M69_UI9rrJSVvWL2-yAg=&f=1"  width="56" height="56" alt="The 1975" style="top:-0px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=_AHQl1DG-nvFRxec8mXLmd_M69_UI9rrJSVvWL2-yAg=&f=1" width="56" height="56" alt="The 1975" style="top:-0px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2013                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/the-1975-mn0002986022">The 1975</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/the-1975-mw0002545393">The 1975</a>
+                                                    <a href="/album/the-1975-mw0002545393"
+                               title="The 1975">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/gimme-fiction-mw0000483684"
+                               title="Gimme Fiction">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=166uGvresW_0Y4Z5AUWp0ypQg_7iAU1wjqLgK_xGXts=&f=1"  width="56" height="56" alt="Gimme Fiction" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=166uGvresW_0Y4Z5AUWp0ypQg_7iAU1wjqLgK_xGXts=&f=1" width="56" height="56" alt="Gimme Fiction" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2005                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/spoon-mn0000131038">Spoon</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/gimme-fiction-mw0000483684">Gimme Fiction</a>
+                                                    <a href="/album/gimme-fiction-mw0000483684"
+                               title="Gimme Fiction">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/turn-on-the-bright-lights-mw0000661350"
+                               title="Turn on the Bright Lights">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=j_nP0cDlGW_BHX6jkRRg4T6KsMttLlyBmmVTZ6_CLs0=&f=1"  width="56" height="56" alt="Turn on the Bright Lights" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=j_nP0cDlGW_BHX6jkRRg4T6KsMttLlyBmmVTZ6_CLs0=&f=1" width="56" height="56" alt="Turn on the Bright Lights" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2002                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/interpol-mn0000096576">Interpol</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/turn-on-the-bright-lights-mw0000661350">Turn on the Bright Lights</a>
+                                                    <a href="/album/turn-on-the-bright-lights-mw0000661350"
+                               title="Turn on the Bright Lights">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/am-mw0002557264"
+                               title="AM">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=CNl0dL9oXuCaqhuhvj5ZuVWnbEN5fCjifro6xhIBuB4=&f=1"  width="56" height="56" alt="AM" style="top:-0px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=CNl0dL9oXuCaqhuhvj5ZuVWnbEN5fCjifro6xhIBuB4=&f=1" width="56" height="56" alt="AM" style="top:-0px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2013                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/arctic-monkeys-mn0000325357">Arctic Monkeys</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/am-mw0002557264">AM</a>
+                                                    <a href="/album/am-mw0002557264"
+                               title="AM">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/merriweather-post-pavilion-mw0000806468"
+                               title="Merriweather Post Pavilion">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=KhF9RRltRR4yMjGlsI1jUT6KsMttLlyBmmVTZ6_CLs0=&f=1"  width="56" height="56" alt="Merriweather Post Pavilion" style="top:-0px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=KhF9RRltRR4yMjGlsI1jUT6KsMttLlyBmmVTZ6_CLs0=&f=1" width="56" height="56" alt="Merriweather Post Pavilion" style="top:-0px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2009                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/animal-collective-mn0000919603">Animal Collective</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/merriweather-post-pavilion-mw0000806468">Merriweather Post Pavilion</a>
+                                                    <a href="/album/merriweather-post-pavilion-mw0000806468"
+                               title="Merriweather Post Pavilion">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/hand-it-over-mw0000617657"
+                               title="Hand It Over">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=9YjMqkj_UCwOwIMb_DyOC4Af7E_1E-2MlBBPmPAXRBU=&f=1"  width="56" height="56" alt="Hand It Over" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=9YjMqkj_UCwOwIMb_DyOC4Af7E_1E-2MlBBPmPAXRBU=&f=1" width="56" height="56" alt="Hand It Over" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        1997                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/dinosaur-jr-mn0000219483">Dinosaur Jr.</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/hand-it-over-mw0000617657">Hand It Over</a>
+                                                    <a href="/album/hand-it-over-mw0000617657"
+                               title="Hand It Over">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/metals-mw0002194566"
+                               title="Metals">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=gYgkppBYz87rivnDxWbywx_TZlp6n_cq-Emr2zx15tU=&f=1"  width="56" height="56" alt="Metals" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=gYgkppBYz87rivnDxWbywx_TZlp6n_cq-Emr2zx15tU=&f=1" width="56" height="56" alt="Metals" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2011                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/feist-mn0000166505">Feist</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/metals-mw0002194566">Metals</a>
+                                                    <a href="/album/metals-mw0002194566"
+                               title="Metals">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/green-mind-mw0000266649"
+                               title="Green Mind">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=RfOe0Qmj9eyFBV0Uvm5hfRyhM-OFI8zG4l-qVpXXB1I=&f=1"  width="56" height="56" alt="Green Mind" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=RfOe0Qmj9eyFBV0Uvm5hfRyhM-OFI8zG4l-qVpXXB1I=&f=1" width="56" height="56" alt="Green Mind" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        1991                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/dinosaur-jr-mn0000219483">Dinosaur Jr.</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/green-mind-mw0000266649">Green Mind</a>
+                                                    <a href="/album/green-mind-mw0000266649"
+                               title="Green Mind">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/wolfgang-amadeus-phoenix-mw0000816836"
+                               title="Wolfgang Amadeus Phoenix">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=N_banSb_eevf7c047SWa3ipQg_7iAU1wjqLgK_xGXts=&f=1"  width="56" height="56" alt="Wolfgang Amadeus Phoenix" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=N_banSb_eevf7c047SWa3ipQg_7iAU1wjqLgK_xGXts=&f=1" width="56" height="56" alt="Wolfgang Amadeus Phoenix" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2009                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/phoenix-mn0000277572">Phoenix</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/wolfgang-amadeus-phoenix-mw0000816836">Wolfgang Amadeus Phoenix</a>
+                                                    <a href="/album/wolfgang-amadeus-phoenix-mw0000816836"
+                               title="Wolfgang Amadeus Phoenix">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/%C3g%C3%A6tis-byrjun-mw0000623855"
+                               title="Ágætis Byrjun">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=F1Prvta3X4_g5je9tm_nf1WnbEN5fCjifro6xhIBuB4=&f=1"  width="61" height="56" alt="Ágætis Byrjun" style="left:-2px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=F1Prvta3X4_g5je9tm_nf1WnbEN5fCjifro6xhIBuB4=&f=1" width="61" height="56" alt="Ágætis Byrjun" style="left:-2px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        1999                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/sigur-r%C3%B3s-mn0000753868">Sigur Rós</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/%C3g%C3%A6tis-byrjun-mw0000623855">Ágætis Byrjun</a>
+                                                    <a href="/album/%C3g%C3%A6tis-byrjun-mw0000623855"
+                               title="Ágætis Byrjun">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/bitte-orca-mw0000818143"
+                               title="Bitte Orca">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=slsG80Ct7Pr_kzqXVq1wQCpQg_7iAU1wjqLgK_xGXts=&f=1"  width="63" height="56" alt="Bitte Orca" style="left:-3px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=slsG80Ct7Pr_kzqXVq1wQCpQg_7iAU1wjqLgK_xGXts=&f=1" width="63" height="56" alt="Bitte Orca" style="left:-3px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2009                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/dirty-projectors-mn0000148004">Dirty Projectors</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/bitte-orca-mw0000818143">Bitte Orca</a>
+                                                    <a href="/album/bitte-orca-mw0000818143"
+                               title="Bitte Orca">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/hey-im-just-like-you-mw0003305531"
+                               title="Hey, I'm Just Like You">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=YO-sINh8BQgFRAcdus-WXR_TZlp6n_cq-Emr2zx15tU=&f=1"  width="56" height="56" alt="Hey, I'm Just Like You" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=YO-sINh8BQgFRAcdus-WXR_TZlp6n_cq-Emr2zx15tU=&f=1" width="56" height="56" alt="Hey, I'm Just Like You" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2019                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/sara-mn0002318133">Sara</a> / <a href="https://www.allmusic.com/artist/tegan-mn0002649244">Tegan</a> / <a href="https://www.allmusic.com/artist/tegan-and-sara-mn0000021670">Tegan and Sara</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/hey-im-just-like-you-mw0003305531">Hey, I'm Just Like You</a>
+                                                    <a href="/album/hey-im-just-like-you-mw0003305531"
+                               title="Hey, I'm Just Like You">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/farm-mw0000818219"
+                               title="Farm">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=4d7nmWv-iBSqpqAFYC7agB_TZlp6n_cq-Emr2zx15tU=&f=1"  width="56" height="56" alt="Farm" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=4d7nmWv-iBSqpqAFYC7agB_TZlp6n_cq-Emr2zx15tU=&f=1" width="56" height="56" alt="Farm" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2009                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/dinosaur-jr-mn0000219483">Dinosaur Jr.</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/farm-mw0000818219">Farm</a>
+                                                    <a href="/album/farm-mw0000818219"
+                               title="Farm">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/young-team-mw0000033755"
+                               title="Young Team">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=L2zT6LOGduDRW0n5W74QvZhUoDg0hsvx4F4sL4oO-nA=&f=1"  width="56" height="56" alt="Young Team" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=L2zT6LOGduDRW0n5W74QvZhUoDg0hsvx4F4sL4oO-nA=&f=1" width="56" height="56" alt="Young Team" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        1997                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/mogwai-mn0000923705">Mogwai</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/young-team-mw0000033755">Young Team</a>
+                                                    <a href="/album/young-team-mw0000033755"
+                               title="Young Team">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/ill-be-your-girl-mw0003143644"
+                               title="I'll Be Your Girl">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=sj6UWJWj4y5xm9JSlQpLlFWnbEN5fCjifro6xhIBuB4=&f=1"  width="56" height="56" alt="I'll Be Your Girl" style="top:-0px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=sj6UWJWj4y5xm9JSlQpLlFWnbEN5fCjifro6xhIBuB4=&f=1" width="56" height="56" alt="I'll Be Your Girl" style="top:-0px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2018                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/the-decemberists-mn0000787579">The Decemberists</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/ill-be-your-girl-mw0003143644">I'll Be Your Girl</a>
+                                                    <a href="/album/ill-be-your-girl-mw0003143644"
+                               title="I'll Be Your Girl">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/reflektor-mw0002581228"
+                               title="Reflektor">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=cDDL_hG-kgkcT7WoLmp5-t_M69_UI9rrJSVvWL2-yAg=&f=1"  width="61" height="56" alt="Reflektor" style="left:-2px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=cDDL_hG-kgkcT7WoLmp5-t_M69_UI9rrJSVvWL2-yAg=&f=1" width="61" height="56" alt="Reflektor" style="left:-2px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2013                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/arcade-fire-mn0000185591">Arcade Fire</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/reflektor-mw0002581228">Reflektor</a>
+                                                    <a href="/album/reflektor-mw0002581228"
+                               title="Reflektor">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/what-a-terrible-world-what-a-beautiful-world-mw0002785203"
+                               title="What a Terrible World, What a Beautiful World">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=lHWl25VV9ZsfJCWrPDwu55hUoDg0hsvx4F4sL4oO-nA=&f=1"  width="56" height="56" alt="What a Terrible World, What a Beautiful World" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=lHWl25VV9ZsfJCWrPDwu55hUoDg0hsvx4F4sL4oO-nA=&f=1" width="56" height="56" alt="What a Terrible World, What a Beautiful World" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2015                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/the-decemberists-mn0000787579">The Decemberists</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/what-a-terrible-world-what-a-beautiful-world-mw0002785203">What a Terrible World, What a Beautiful World</a>
+                                                    <a href="/album/what-a-terrible-world-what-a-beautiful-world-mw0002785203"
+                               title="What a Terrible World, What a Beautiful World">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/im-not-there-original-soundtrack-mw0000580748"
+                               title="I'm Not There [Original Soundtrack]">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://cdn-s3.allmusic.com/release-covers/75/0000/729/0000729225.jpg"  width="56" height="56" alt="I'm Not There [Original Soundtrack]" style=""><noscript><img src="https://cdn-s3.allmusic.com/release-covers/75/0000/729/0000729225.jpg" width="56" height="56" alt="I'm Not There [Original Soundtrack]" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2007                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/bob-dylan-mn0000066915">Bob Dylan</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/im-not-there-original-soundtrack-mw0000580748">I'm Not There [Original Soundtrack]</a>
+                                                    <a href="/album/im-not-there-original-soundtrack-mw0000580748"
+                               title="I'm Not There [Original Soundtrack]">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/suck-it-and-see-mw0002122893"
+                               title="Suck It and See">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=znlCvk-nDG7kfci6A3Gm7T6KsMttLlyBmmVTZ6_CLs0=&f=1"  width="56" height="56" alt="Suck It and See" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=znlCvk-nDG7kfci6A3Gm7T6KsMttLlyBmmVTZ6_CLs0=&f=1" width="56" height="56" alt="Suck It and See" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2011                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/arctic-monkeys-mn0000325357">Arctic Monkeys</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/suck-it-and-see-mw0002122893">Suck It and See</a>
+                                                    <a href="/album/suck-it-and-see-mw0002122893"
+                               title="Suck It and See">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/star-wars-mw0002862308"
+                               title="Star Wars">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=NiJWm-K52wHhskLQUa9La4Af7E_1E-2MlBBPmPAXRBU=&f=1"  width="56" height="56" alt="Star Wars" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=NiJWm-K52wHhskLQUa9La4Af7E_1E-2MlBBPmPAXRBU=&f=1" width="56" height="56" alt="Star Wars" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2015                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/wilco-mn0000254215">Wilco</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/star-wars-mw0002862308">Star Wars</a>
+                                                    <a href="/album/star-wars-mw0002862308"
+                               title="Star Wars">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/we-all-raise-our-voices-to-the-air-live-songs-041108-mw0002298368"
+                               title="We All Raise Our Voices to the Air: Live Songs 04.11.08">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=gOyWYZzUwfdYiK4fqLII_h_TZlp6n_cq-Emr2zx15tU=&f=1"  width="56" height="56" alt="We All Raise Our Voices to the Air: Live Songs 04.11.08" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=gOyWYZzUwfdYiK4fqLII_h_TZlp6n_cq-Emr2zx15tU=&f=1" width="56" height="56" alt="We All Raise Our Voices to the Air: Live Songs 04.11.08" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2012                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/the-decemberists-mn0000787579">The Decemberists</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/we-all-raise-our-voices-to-the-air-live-songs-041108-mw0002298368">We All Raise Our Voices to the Air: Live Songs 04.11.08</a>
+                                                    <a href="/album/we-all-raise-our-voices-to-the-air-live-songs-041108-mw0002298368"
+                               title="We All Raise Our Voices to the Air: Live Songs 04.11.08">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/synthetica-mw0002354324"
+                               title="Synthetica">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=9zfjnnzylL2teNjmy_zxN9_M69_UI9rrJSVvWL2-yAg=&f=1"  width="56" height="56" alt="Synthetica" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=9zfjnnzylL2teNjmy_zxN9_M69_UI9rrJSVvWL2-yAg=&f=1" width="56" height="56" alt="Synthetica" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2012                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/metric-mn0000380651">Metric</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/synthetica-mw0002354324">Synthetica</a>
+                                                    <a href="/album/synthetica-mw0002354324"
+                               title="Synthetica">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/in-our-heads-mw0002329151"
+                               title="In Our Heads">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=j8iqS4p-lTeRMTvJ-NoU5hyhM-OFI8zG4l-qVpXXB1I=&f=1"  width="56" height="56" alt="In Our Heads" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=j8iqS4p-lTeRMTvJ-NoU5hyhM-OFI8zG4l-qVpXXB1I=&f=1" width="56" height="56" alt="In Our Heads" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2012                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/hot-chip-mn0000557191">Hot Chip</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/in-our-heads-mw0002329151">In Our Heads</a>
+                                                    <a href="/album/in-our-heads-mw0002329151"
+                               title="In Our Heads">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/brothers-mw0001983497"
+                               title="Brothers">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=9u7RggFpCm2mc3cF4zVu0Q4Q1ghY8VaPylnm7PwcKNY=&f=1"  width="56" height="56" alt="Brothers" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=9u7RggFpCm2mc3cF4zVu0Q4Q1ghY8VaPylnm7PwcKNY=&f=1" width="56" height="56" alt="Brothers" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2010                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/the-black-keys-mn0000755918">The Black Keys</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/brothers-mw0001983497">Brothers</a>
+                                                    <a href="/album/brothers-mw0001983497"
+                               title="Brothers">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/made-in-the-dark-mw0000586306"
+                               title="Made in the Dark">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=keDYz4apY7NB-Xpu5ppjSwSijaXJlYnq0St31qpAJWo=&f=1"  width="61" height="56" alt="Made in the Dark" style="left:-2px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=keDYz4apY7NB-Xpu5ppjSwSijaXJlYnq0St31qpAJWo=&f=1" width="61" height="56" alt="Made in the Dark" style="left:-2px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2008                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/hot-chip-mn0000557191">Hot Chip</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/made-in-the-dark-mw0000586306">Made in the Dark</a>
+                                                    <a href="/album/made-in-the-dark-mw0000586306"
+                               title="Made in the Dark">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/centipede-hz-mw0002377960"
+                               title="Centipede Hz">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=c0VOudjW_X6npbMQws0xdlWnbEN5fCjifro6xhIBuB4=&f=1"  width="56" height="56" alt="Centipede Hz" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=c0VOudjW_X6npbMQws0xdlWnbEN5fCjifro6xhIBuB4=&f=1" width="56" height="56" alt="Centipede Hz" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2012                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/animal-collective-mn0000919603">Animal Collective</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/centipede-hz-mw0002377960">Centipede Hz</a>
+                                                    <a href="/album/centipede-hz-mw0002377960"
+                               title="Centipede Hz">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/bankrupt%21-mw0002493055"
+                               title="Bankrupt!">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=zCVmxT1hatawC9Uz-n_U0h_TZlp6n_cq-Emr2zx15tU=&f=1"  width="56" height="56" alt="Bankrupt!" style="top:-0px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=zCVmxT1hatawC9Uz-n_U0h_TZlp6n_cq-Emr2zx15tU=&f=1" width="56" height="56" alt="Bankrupt!" style="top:-0px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2013                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/phoenix-mn0000277572">Phoenix</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/bankrupt%21-mw0002493055">Bankrupt!</a>
+                                                    <a href="/album/bankrupt%21-mw0002493055"
+                               title="Bankrupt!">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/traveling-on-mw0003228417"
+                               title="Traveling On">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=z99_EKJXI3tg6mmypp6wtA4Q1ghY8VaPylnm7PwcKNY=&f=1"  width="61" height="56" alt="Traveling On" style="left:-2px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=z99_EKJXI3tg6mmypp6wtA4Q1ghY8VaPylnm7PwcKNY=&f=1" width="61" height="56" alt="Traveling On" style="left:-2px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2018                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/the-decemberists-mn0000787579">The Decemberists</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/traveling-on-mw0003228417">Traveling On</a>
+                                                    <a href="/album/traveling-on-mw0003228417"
+                               title="Traveling On">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/without-a-sound-mw0000626034"
+                               title="Without a Sound">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=k-4qtC99ecDi1CZY-ur3uVWnbEN5fCjifro6xhIBuB4=&f=1"  width="56" height="56" alt="Without a Sound" style="left:-0px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=k-4qtC99ecDi1CZY-ur3uVWnbEN5fCjifro6xhIBuB4=&f=1" width="56" height="56" alt="Without a Sound" style="left:-0px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        1994                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/dinosaur-jr-mn0000219483">Dinosaur Jr.</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/without-a-sound-mw0000626034">Without a Sound</a>
+                                                    <a href="/album/without-a-sound-mw0000626034"
+                               title="Without a Sound">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/interpol-mw0002021901"
+                               title="Interpol">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=sLlQAJxEIs47NxP0bEqV9ZhUoDg0hsvx4F4sL4oO-nA=&f=1"  width="56" height="56" alt="Interpol" style="top:-0px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=sLlQAJxEIs47NxP0bEqV9ZhUoDg0hsvx4F4sL4oO-nA=&f=1" width="56" height="56" alt="Interpol" style="top:-0px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2010                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/interpol-mn0000096576">Interpol</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/interpol-mw0002021901">Interpol</a>
+                                                    <a href="/album/interpol-mw0002021901"
+                               title="Interpol">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/exile-in-guyville-mw0000618547"
+                               title="Exile in Guyville">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=4dWc2DYCTR6ZnwlueswoWR_TZlp6n_cq-Emr2zx15tU=&f=1"  width="56" height="56" alt="Exile in Guyville" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=4dWc2DYCTR6ZnwlueswoWR_TZlp6n_cq-Emr2zx15tU=&f=1" width="56" height="56" alt="Exile in Guyville" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        1993                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/liz-phair-mn0000225930">Liz Phair</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/exile-in-guyville-mw0000618547">Exile in Guyville</a>
+                                                    <a href="/album/exile-in-guyville-mw0000618547"
+                               title="Exile in Guyville">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/one-life-stand-mw0001957675"
+                               title="One Life Stand">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=uRI-u4g5CCmzt6GmxDGRnt_M69_UI9rrJSVvWL2-yAg=&f=1"  width="61" height="56" alt="One Life Stand" style="left:-2px;"><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=uRI-u4g5CCmzt6GmxDGRnt_M69_UI9rrJSVvWL2-yAg=&f=1" width="61" height="56" alt="One Life Stand" style="left:-2px;"></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2010                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/hot-chip-mn0000557191">Hot Chip</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/one-life-stand-mw0001957675">One Life Stand</a>
+                                                    <a href="/album/one-life-stand-mw0001957675"
+                               title="One Life Stand">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/cyr-mw0003422082"
+                               title="Cyr">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=wEMVsPVL1fA8BwSZmK6pLT6KsMttLlyBmmVTZ6_CLs0=&f=1"  width="56" height="56" alt="Cyr" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=wEMVsPVL1fA8BwSZmK6pLT6KsMttLlyBmmVTZ6_CLs0=&f=1" width="56" height="56" alt="Cyr" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2020                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/the-smashing-pumpkins-mn0000036521">The Smashing Pumpkins</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/cyr-mw0003422082">Cyr</a>
+                                                    <a href="/album/cyr-mw0003422082"
+                               title="Cyr">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/schmilco-mw0002965979"
+                               title="Schmilco">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=GTY3oDZ4XtAzGpzHkyGmSB_TZlp6n_cq-Emr2zx15tU=&f=1"  width="56" height="56" alt="Schmilco" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=GTY3oDZ4XtAzGpzHkyGmSB_TZlp6n_cq-Emr2zx15tU=&f=1" width="56" height="56" alt="Schmilco" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2016                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/wilco-mn0000254215">Wilco</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/schmilco-mw0002965979">Schmilco</a>
+                                                    <a href="/album/schmilco-mw0002965979"
+                               title="Schmilco">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue half" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue-half.svg" alt="blue half star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                            <tr>
+                    <td class="cover">
+                                                    <a href="/album/fall-be-kind-mw0001512697"
+                               title="Fall Be Kind">
+                                <div class="cropped-image crop-image-borders" style="width:55px;height:55px;" ><img class="lazy" src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=FEs20pl0y00Tnou6kIXJJ1WnbEN5fCjifro6xhIBuB4=&f=1"  width="56" height="56" alt="Fall Be Kind" style=""><noscript><img src="https://rovimusic.rovicorp.com/image.jpg?c=FEs20pl0y00Tnou6kIXJJ1WnbEN5fCjifro6xhIBuB4=&f=1" width="56" height="56" alt="Fall Be Kind" style=""></noscript></div>                            </a>
+                                            </td>
+
+                    <td class="year">
+                        2009                    </td>
+
+                    <td class="artist">
+                        <a href="https://www.allmusic.com/artist/animal-collective-mn0000919603">Animal Collective</a>                    </td>
+
+                    <td class="title">
+                        <a href="https://www.allmusic.com/album/fall-be-kind-mw0001512697">Fall Be Kind</a>
+                                                    <a href="/album/fall-be-kind-mw0001512697"
+                               title="Fall Be Kind">
+                                <span class="song-review"></span>
+                            </a>
+                                            </td>
+
+                    <td class="rating">
+                        <div class="allmusic-rating-new">
+                            <img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blue star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blue.svg" alt="blue star"><img class="blank star" src="https://cdn-gce.allmusic.com/images/ratings/vector-star-blank.svg" alt="empty star">                        </div>
+                    </td>
+                </tr>
+
+                        </tbody>
+        </table>
+    </div>
+    <div class="mobile-results">
+
+        <div class="discography-container">
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/mellon-collie-and-the-infinite-sadness-mw0000645152"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=KwqIu4wo1TTu3hG-3q3Dzh_TZlp6n_cq-Emr2zx15tU=&f=4" alt="Mellon Collie and the Infinite Sadness" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    1995                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/the-smashing-pumpkins-mn0000036521">The Smashing Pumpkins</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Mellon Collie and the Infinite Sadness">
+                <a href="https://www.allmusic.com/album/mellon-collie-and-the-infinite-sadness-mw0000645152" class="title_adv_search_results">Mellon Collie and the Infinite Sadness</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="8-Mellon Collie and the Infinite Sadness">
+                <div class="allmusic-rating rating-allmusic-8"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/siamese-dream-mw0000099414"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=WgM8FlaPraqsoKaOTdtNOA4Q1ghY8VaPylnm7PwcKNY=&f=4" alt="Siamese Dream" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    1993                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/the-smashing-pumpkins-mn0000036521">The Smashing Pumpkins</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Siamese Dream">
+                <a href="https://www.allmusic.com/album/siamese-dream-mw0000099414" class="title_adv_search_results">Siamese Dream</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="9-Siamese Dream">
+                <div class="allmusic-rating rating-allmusic-9"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/gish-mw0000265088"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=pUGEiEHZMVU5IeIRutlzT1WnbEN5fCjifro6xhIBuB4=&f=4" alt="Gish" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    1991                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/the-smashing-pumpkins-mn0000036521">The Smashing Pumpkins</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Gish">
+                <a href="https://www.allmusic.com/album/gish-mw0000265088" class="title_adv_search_results">Gish</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="8-Gish">
+                <div class="allmusic-rating rating-allmusic-8"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/the-suburbs-mw0002010991"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=DYv4C1sqBjc-DKl2Fvz3aFWnbEN5fCjifro6xhIBuB4=&f=4" alt="The Suburbs" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2010                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/arcade-fire-mn0000185591">Arcade Fire</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="The Suburbs">
+                <a href="https://www.allmusic.com/album/the-suburbs-mw0002010991" class="title_adv_search_results">The Suburbs</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="9-The Suburbs">
+                <div class="allmusic-rating rating-allmusic-9"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/where-you-been-mw0000093455"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=RfOe0Qmj9eyFBV0Uvm5hfd_M69_UI9rrJSVvWL2-yAg=&f=4" alt="Where You Been" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    1993                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/dinosaur-jr-mn0000219483">Dinosaur Jr.</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Where You Been">
+                <a href="https://www.allmusic.com/album/where-you-been-mw0000093455" class="title_adv_search_results">Where You Been</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-Where You Been">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/the-1975-mw0002545393"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=_AHQl1DG-nvFRxec8mXLmd_M69_UI9rrJSVvWL2-yAg=&f=4" alt="The 1975" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2013                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/the-1975-mn0002986022">The 1975</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="The 1975">
+                <a href="https://www.allmusic.com/album/the-1975-mw0002545393" class="title_adv_search_results">The 1975</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-The 1975">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/gimme-fiction-mw0000483684"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=166uGvresW_0Y4Z5AUWp0ypQg_7iAU1wjqLgK_xGXts=&f=4" alt="Gimme Fiction" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2005                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/spoon-mn0000131038">Spoon</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Gimme Fiction">
+                <a href="https://www.allmusic.com/album/gimme-fiction-mw0000483684" class="title_adv_search_results">Gimme Fiction</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-Gimme Fiction">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/turn-on-the-bright-lights-mw0000661350"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=j_nP0cDlGW_BHX6jkRRg4T6KsMttLlyBmmVTZ6_CLs0=&f=4" alt="Turn on the Bright Lights" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2002                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/interpol-mn0000096576">Interpol</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Turn on the Bright Lights">
+                <a href="https://www.allmusic.com/album/turn-on-the-bright-lights-mw0000661350" class="title_adv_search_results">Turn on the Bright Lights</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="9-Turn on the Bright Lights">
+                <div class="allmusic-rating rating-allmusic-9"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/am-mw0002557264"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=CNl0dL9oXuCaqhuhvj5ZuVWnbEN5fCjifro6xhIBuB4=&f=4" alt="AM" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2013                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/arctic-monkeys-mn0000325357">Arctic Monkeys</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="AM">
+                <a href="https://www.allmusic.com/album/am-mw0002557264" class="title_adv_search_results">AM</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="9-AM">
+                <div class="allmusic-rating rating-allmusic-9"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/merriweather-post-pavilion-mw0000806468"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=KhF9RRltRR4yMjGlsI1jUT6KsMttLlyBmmVTZ6_CLs0=&f=4" alt="Merriweather Post Pavilion" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2009                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/animal-collective-mn0000919603">Animal Collective</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Merriweather Post Pavilion">
+                <a href="https://www.allmusic.com/album/merriweather-post-pavilion-mw0000806468" class="title_adv_search_results">Merriweather Post Pavilion</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="9-Merriweather Post Pavilion">
+                <div class="allmusic-rating rating-allmusic-9"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/hand-it-over-mw0000617657"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=9YjMqkj_UCwOwIMb_DyOC4Af7E_1E-2MlBBPmPAXRBU=&f=4" alt="Hand It Over" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    1997                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/dinosaur-jr-mn0000219483">Dinosaur Jr.</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Hand It Over">
+                <a href="https://www.allmusic.com/album/hand-it-over-mw0000617657" class="title_adv_search_results">Hand It Over</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-Hand It Over">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/metals-mw0002194566"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=gYgkppBYz87rivnDxWbywx_TZlp6n_cq-Emr2zx15tU=&f=4" alt="Metals" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2011                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/feist-mn0000166505">Feist</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Metals">
+                <a href="https://www.allmusic.com/album/metals-mw0002194566" class="title_adv_search_results">Metals</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="6-Metals">
+                <div class="allmusic-rating rating-allmusic-6"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/green-mind-mw0000266649"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=RfOe0Qmj9eyFBV0Uvm5hfRyhM-OFI8zG4l-qVpXXB1I=&f=4" alt="Green Mind" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    1991                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/dinosaur-jr-mn0000219483">Dinosaur Jr.</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Green Mind">
+                <a href="https://www.allmusic.com/album/green-mind-mw0000266649" class="title_adv_search_results">Green Mind</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="8-Green Mind">
+                <div class="allmusic-rating rating-allmusic-8"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/wolfgang-amadeus-phoenix-mw0000816836"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=N_banSb_eevf7c047SWa3ipQg_7iAU1wjqLgK_xGXts=&f=4" alt="Wolfgang Amadeus Phoenix" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2009                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/phoenix-mn0000277572">Phoenix</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Wolfgang Amadeus Phoenix">
+                <a href="https://www.allmusic.com/album/wolfgang-amadeus-phoenix-mw0000816836" class="title_adv_search_results">Wolfgang Amadeus Phoenix</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="8-Wolfgang Amadeus Phoenix">
+                <div class="allmusic-rating rating-allmusic-8"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/%C3g%C3%A6tis-byrjun-mw0000623855"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=F1Prvta3X4_g5je9tm_nf1WnbEN5fCjifro6xhIBuB4=&f=4" alt="Ágætis Byrjun" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    1999                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/sigur-r%C3%B3s-mn0000753868">Sigur Rós</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Ágætis Byrjun">
+                <a href="https://www.allmusic.com/album/%C3g%C3%A6tis-byrjun-mw0000623855" class="title_adv_search_results">Ágætis Byrjun</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="8-Ágætis Byrjun">
+                <div class="allmusic-rating rating-allmusic-8"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/bitte-orca-mw0000818143"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=slsG80Ct7Pr_kzqXVq1wQCpQg_7iAU1wjqLgK_xGXts=&f=4" alt="Bitte Orca" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2009                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/dirty-projectors-mn0000148004">Dirty Projectors</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Bitte Orca">
+                <a href="https://www.allmusic.com/album/bitte-orca-mw0000818143" class="title_adv_search_results">Bitte Orca</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="9-Bitte Orca">
+                <div class="allmusic-rating rating-allmusic-9"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/hey-im-just-like-you-mw0003305531"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=YO-sINh8BQgFRAcdus-WXR_TZlp6n_cq-Emr2zx15tU=&f=4" alt="Hey, I'm Just Like You" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2019                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/sara-mn0002318133">Sara</a> / <a href="https://www.allmusic.com/artist/tegan-mn0002649244">Tegan</a> / <a href="https://www.allmusic.com/artist/tegan-and-sara-mn0000021670">Tegan and Sara</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Hey, I'm Just Like You">
+                <a href="https://www.allmusic.com/album/hey-im-just-like-you-mw0003305531" class="title_adv_search_results">Hey, I'm Just Like You</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-Hey, I'm Just Like You">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/farm-mw0000818219"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=4d7nmWv-iBSqpqAFYC7agB_TZlp6n_cq-Emr2zx15tU=&f=4" alt="Farm" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2009                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/dinosaur-jr-mn0000219483">Dinosaur Jr.</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Farm">
+                <a href="https://www.allmusic.com/album/farm-mw0000818219" class="title_adv_search_results">Farm</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-Farm">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/young-team-mw0000033755"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=L2zT6LOGduDRW0n5W74QvZhUoDg0hsvx4F4sL4oO-nA=&f=4" alt="Young Team" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    1997                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/mogwai-mn0000923705">Mogwai</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Young Team">
+                <a href="https://www.allmusic.com/album/young-team-mw0000033755" class="title_adv_search_results">Young Team</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="8-Young Team">
+                <div class="allmusic-rating rating-allmusic-8"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/ill-be-your-girl-mw0003143644"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=sj6UWJWj4y5xm9JSlQpLlFWnbEN5fCjifro6xhIBuB4=&f=4" alt="I'll Be Your Girl" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2018                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/the-decemberists-mn0000787579">The Decemberists</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="I'll Be Your Girl">
+                <a href="https://www.allmusic.com/album/ill-be-your-girl-mw0003143644" class="title_adv_search_results">I'll Be Your Girl</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="6-I'll Be Your Girl">
+                <div class="allmusic-rating rating-allmusic-6"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/reflektor-mw0002581228"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=cDDL_hG-kgkcT7WoLmp5-t_M69_UI9rrJSVvWL2-yAg=&f=4" alt="Reflektor" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2013                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/arcade-fire-mn0000185591">Arcade Fire</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Reflektor">
+                <a href="https://www.allmusic.com/album/reflektor-mw0002581228" class="title_adv_search_results">Reflektor</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="6-Reflektor">
+                <div class="allmusic-rating rating-allmusic-6"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/what-a-terrible-world-what-a-beautiful-world-mw0002785203"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=lHWl25VV9ZsfJCWrPDwu55hUoDg0hsvx4F4sL4oO-nA=&f=4" alt="What a Terrible World, What a Beautiful World" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2015                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/the-decemberists-mn0000787579">The Decemberists</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="What a Terrible World, What a Beautiful World">
+                <a href="https://www.allmusic.com/album/what-a-terrible-world-what-a-beautiful-world-mw0002785203" class="title_adv_search_results">What a Terrible World, What a Beautiful World</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-What a Terrible World, What a Beautiful World">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/im-not-there-original-soundtrack-mw0000580748"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://cdn-s3.allmusic.com/release-covers/400/0000/729/0000729225.jpg" alt="I'm Not There [Original Soundtrack]" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2007                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/bob-dylan-mn0000066915">Bob Dylan</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="I'm Not There [Original Soundtrack]">
+                <a href="https://www.allmusic.com/album/im-not-there-original-soundtrack-mw0000580748" class="title_adv_search_results">I'm Not There [Original Soundtrack]</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-I'm Not There [Original Soundtrack]">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/suck-it-and-see-mw0002122893"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=znlCvk-nDG7kfci6A3Gm7T6KsMttLlyBmmVTZ6_CLs0=&f=4" alt="Suck It and See" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2011                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/arctic-monkeys-mn0000325357">Arctic Monkeys</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Suck It and See">
+                <a href="https://www.allmusic.com/album/suck-it-and-see-mw0002122893" class="title_adv_search_results">Suck It and See</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="6-Suck It and See">
+                <div class="allmusic-rating rating-allmusic-6"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/star-wars-mw0002862308"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=NiJWm-K52wHhskLQUa9La4Af7E_1E-2MlBBPmPAXRBU=&f=4" alt="Star Wars" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2015                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/wilco-mn0000254215">Wilco</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Star Wars">
+                <a href="https://www.allmusic.com/album/star-wars-mw0002862308" class="title_adv_search_results">Star Wars</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-Star Wars">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/we-all-raise-our-voices-to-the-air-live-songs-041108-mw0002298368"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=gOyWYZzUwfdYiK4fqLII_h_TZlp6n_cq-Emr2zx15tU=&f=4" alt="We All Raise Our Voices to the Air: Live Songs 04.11.08" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2012                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/the-decemberists-mn0000787579">The Decemberists</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="We All Raise Our Voices to the Air: Live Songs 04.11.08">
+                <a href="https://www.allmusic.com/album/we-all-raise-our-voices-to-the-air-live-songs-041108-mw0002298368" class="title_adv_search_results">We All Raise Our Voices to the Air: Live Songs 04.11.08</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-We All Raise Our Voices to the Air: Live Songs 04.11.08">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/synthetica-mw0002354324"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=9zfjnnzylL2teNjmy_zxN9_M69_UI9rrJSVvWL2-yAg=&f=4" alt="Synthetica" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2012                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/metric-mn0000380651">Metric</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Synthetica">
+                <a href="https://www.allmusic.com/album/synthetica-mw0002354324" class="title_adv_search_results">Synthetica</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-Synthetica">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/in-our-heads-mw0002329151"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=j8iqS4p-lTeRMTvJ-NoU5hyhM-OFI8zG4l-qVpXXB1I=&f=4" alt="In Our Heads" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2012                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/hot-chip-mn0000557191">Hot Chip</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="In Our Heads">
+                <a href="https://www.allmusic.com/album/in-our-heads-mw0002329151" class="title_adv_search_results">In Our Heads</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="8-In Our Heads">
+                <div class="allmusic-rating rating-allmusic-8"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/brothers-mw0001983497"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=9u7RggFpCm2mc3cF4zVu0Q4Q1ghY8VaPylnm7PwcKNY=&f=4" alt="Brothers" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2010                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/the-black-keys-mn0000755918">The Black Keys</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Brothers">
+                <a href="https://www.allmusic.com/album/brothers-mw0001983497" class="title_adv_search_results">Brothers</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="8-Brothers">
+                <div class="allmusic-rating rating-allmusic-8"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/made-in-the-dark-mw0000586306"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=keDYz4apY7NB-Xpu5ppjSwSijaXJlYnq0St31qpAJWo=&f=4" alt="Made in the Dark" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2008                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/hot-chip-mn0000557191">Hot Chip</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Made in the Dark">
+                <a href="https://www.allmusic.com/album/made-in-the-dark-mw0000586306" class="title_adv_search_results">Made in the Dark</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-Made in the Dark">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/centipede-hz-mw0002377960"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=c0VOudjW_X6npbMQws0xdlWnbEN5fCjifro6xhIBuB4=&f=4" alt="Centipede Hz" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2012                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/animal-collective-mn0000919603">Animal Collective</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Centipede Hz">
+                <a href="https://www.allmusic.com/album/centipede-hz-mw0002377960" class="title_adv_search_results">Centipede Hz</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="6-Centipede Hz">
+                <div class="allmusic-rating rating-allmusic-6"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/bankrupt%21-mw0002493055"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=zCVmxT1hatawC9Uz-n_U0h_TZlp6n_cq-Emr2zx15tU=&f=4" alt="Bankrupt!" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2013                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/phoenix-mn0000277572">Phoenix</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Bankrupt!">
+                <a href="https://www.allmusic.com/album/bankrupt%21-mw0002493055" class="title_adv_search_results">Bankrupt!</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-Bankrupt!">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/traveling-on-mw0003228417"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=z99_EKJXI3tg6mmypp6wtA4Q1ghY8VaPylnm7PwcKNY=&f=4" alt="Traveling On" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2018                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/the-decemberists-mn0000787579">The Decemberists</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Traveling On">
+                <a href="https://www.allmusic.com/album/traveling-on-mw0003228417" class="title_adv_search_results">Traveling On</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="5-Traveling On">
+                <div class="allmusic-rating rating-allmusic-5"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/without-a-sound-mw0000626034"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=k-4qtC99ecDi1CZY-ur3uVWnbEN5fCjifro6xhIBuB4=&f=4" alt="Without a Sound" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    1994                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/dinosaur-jr-mn0000219483">Dinosaur Jr.</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Without a Sound">
+                <a href="https://www.allmusic.com/album/without-a-sound-mw0000626034" class="title_adv_search_results">Without a Sound</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-Without a Sound">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/interpol-mw0002021901"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=sLlQAJxEIs47NxP0bEqV9ZhUoDg0hsvx4F4sL4oO-nA=&f=4" alt="Interpol" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2010                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/interpol-mn0000096576">Interpol</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Interpol">
+                <a href="https://www.allmusic.com/album/interpol-mw0002021901" class="title_adv_search_results">Interpol</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="6-Interpol">
+                <div class="allmusic-rating rating-allmusic-6"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/exile-in-guyville-mw0000618547"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=4dWc2DYCTR6ZnwlueswoWR_TZlp6n_cq-Emr2zx15tU=&f=4" alt="Exile in Guyville" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    1993                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/liz-phair-mn0000225930">Liz Phair</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Exile in Guyville">
+                <a href="https://www.allmusic.com/album/exile-in-guyville-mw0000618547" class="title_adv_search_results">Exile in Guyville</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="9-Exile in Guyville">
+                <div class="allmusic-rating rating-allmusic-9"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/one-life-stand-mw0001957675"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=uRI-u4g5CCmzt6GmxDGRnt_M69_UI9rrJSVvWL2-yAg=&f=4" alt="One Life Stand" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2010                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/hot-chip-mn0000557191">Hot Chip</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="One Life Stand">
+                <a href="https://www.allmusic.com/album/one-life-stand-mw0001957675" class="title_adv_search_results">One Life Stand</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="6-One Life Stand">
+                <div class="allmusic-rating rating-allmusic-6"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/cyr-mw0003422082"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=wEMVsPVL1fA8BwSZmK6pLT6KsMttLlyBmmVTZ6_CLs0=&f=4" alt="Cyr" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2020                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/the-smashing-pumpkins-mn0000036521">The Smashing Pumpkins</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Cyr">
+                <a href="https://www.allmusic.com/album/cyr-mw0003422082" class="title_adv_search_results">Cyr</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="6-Cyr">
+                <div class="allmusic-rating rating-allmusic-6"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/schmilco-mw0002965979"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=GTY3oDZ4XtAzGpzHkyGmSB_TZlp6n_cq-Emr2zx15tU=&f=4" alt="Schmilco" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2016                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/wilco-mn0000254215">Wilco</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Schmilco">
+                <a href="https://www.allmusic.com/album/schmilco-mw0002965979" class="title_adv_search_results">Schmilco</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="6-Schmilco">
+                <div class="allmusic-rating rating-allmusic-6"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                            
+    <div class="discography-item-container">
+                <div class="cover">
+                            <a href="/album/fall-be-kind-mw0001512697"><img src="https://cdn-gce.allmusic.com/images/lazy.gif" data-original="https://rovimusic.rovicorp.com/image.jpg?c=FEs20pl0y00Tnou6kIXJJ1WnbEN5fCjifro6xhIBuB4=&f=4" alt="Fall Be Kind" class="lazy"></a>
+                    </div>
+        <div class="meta">
+                                        <div class="year">
+                    2009                </div>
+            
+                                        <div class="result-artist"><a href="https://www.allmusic.com/artist/animal-collective-mn0000919603">Animal Collective</a></div> <!-- todo: change me to whatever used on homepage? -->
+            
+                                    <div class="title" data-sort-value="Fall Be Kind">
+                <a href="https://www.allmusic.com/album/fall-be-kind-mw0001512697" class="title_adv_search_results">Fall Be Kind</a>            </div>
+            
+                        
+                                    <div class="all-rating" data-sort-value="7-Fall Be Kind">
+                <div class="allmusic-rating rating-allmusic-7"></div>
+            </div>
+            
+        </div>
+
+    </div>
+
+                    </div>
+
+    </div>
+    <div class="pagination">
+        <div class="pagination"><span class="current">1</span><a href="/advanced-search/results/2" data-ci-pagination-page="2">2</a><a href="/advanced-search/results/3" data-ci-pagination-page="3">3</a><a href="/advanced-search/results/4" data-ci-pagination-page="4">4</a><a href="/advanced-search/results/5" data-ci-pagination-page="5">5</a><a href="/advanced-search/results/6" data-ci-pagination-page="6">6</a><span class="next"><a href="/advanced-search/results/2" data-ci-pagination-page="2" rel="next">Next &raquo;</a></span></div>    </div>

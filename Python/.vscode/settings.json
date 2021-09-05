@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "albums",
+            "database": "${workspaceFolder:Python}/albums.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

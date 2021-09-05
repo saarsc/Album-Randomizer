@@ -1,0 +1,31 @@
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\Album Randomizer.exe
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\Album Randomizer.deps.json
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\Album Randomizer.runtimeconfig.json
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\Album Randomizer.runtimeconfig.dev.json
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\Album Randomizer.dll
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\Album Randomizer.pdb
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\Album Randomizer.csprojAssemblyReference.cache
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\Album Randomizer_MarkupCompile.cache
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\Album Randomizer_MarkupCompile.lref
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\Album Randomizer.g.resources
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\Album Randomizer.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\Album Randomizer.AssemblyInfo.cs
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\Album Randomizer.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\Album Randomizer.dll
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\Album Randomizer.pdb
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\Album Randomizer.genruntimeconfig.cache
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\Album Randomizer.csproj.CopyComplete
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\SearchArtist.g.cs
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\SelectAlbums.g.cs
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\SearchArtist.baml
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\SelectAlbums.baml
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\EditArtists.g.cs
+C:\Users\user\Documents\Random Scripts\Album Randomizer\Album Randomizer\obj\Debug\netcoreapp3.1\EditArtists.baml
